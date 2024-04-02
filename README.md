@@ -1,8 +1,8 @@
 Project Details:- 
 
 Technologies:
-Frontend: Angular (HTML, CSS, TypeScript)
-Backend: Java, Spring Boot, Spring Data JPA
+Frontend: Angular (HTML, CSS, TypeScript),
+Backend: Java, Spring Boot, Spring Data JPA,
 Database: MySQL
 
 1. Frontend (Angular):
